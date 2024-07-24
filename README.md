@@ -14,9 +14,10 @@
 [![GolgDigger](https://img.shields.io/badge/-GolgDigger-090909?style=for-the-badge&logo=GIT)](https://github.com/AcsellMeent/GolgDigger)
 
 ### My VR Project
-#### Портированные с VR в WebGL
+#### Портированный с VR в WebGL
 
 [![Стропальщик](https://img.shields.io/badge/-Стропальщик-090909?style=for-the-badge&logo=WebGL)](https://cdoprof.com/_fileclients/clients/paid-courses/files_trainer/1645188402/)
+
 [![Пожарная безопасность](https://img.shields.io/badge/-Пожарная%20безопасность-090909?style=for-the-badge&logo=WebGL)](https://cdoprof.com/_fileclients/clients/paid-courses/files_trainer/1648199072/)
 [![Работа на высоте](https://img.shields.io/badge/-Работа%20на%20высоте-090909?style=for-the-badge&logo=WebGL)](https://cdoprof.com/_fileclients/clients/paid-courses/files_trainer/1653573265/)
 
