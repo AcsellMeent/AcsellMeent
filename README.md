@@ -4,6 +4,7 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
+![CSharp](https://img.shields.io/badge/-VR-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=F4CA16)
 
 ### My Open Source GitHub Projects
